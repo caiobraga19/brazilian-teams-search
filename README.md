@@ -34,3 +34,4 @@ O projeto foi construído utilizando as seguintes tecnologias:
 ## 🚀 Modo de Uso
 
 Você pode acessar o projeto online através do GitHub Pages (link abaixo) ou rodá-lo localmente em sua máquina.
+https://caiobraga19.github.io/brazilian-teams-search/
