@@ -1,4 +1,4 @@
-# ⚽ Busca de Times Brasileiros (Brazilian Soccer Search)
+# ⚽ Brazilian Soccer Search
 
 Uma aplicação web interativa e responsiva desenvolvida para facilitar a busca por informações históricas e curiosidades sobre os principais clubes de futebol do Brasil.
 
